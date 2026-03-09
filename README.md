@@ -44,7 +44,7 @@ NetWatch sits somewhere between `netstat` and Wireshark — but focused on **cla
 
 ---
 
-## How to run
+## How To Run
 
 ### Option 1: Download the .exe
 
